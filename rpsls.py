@@ -1,4 +1,3 @@
-# rpsls.py
 #coding:gbk
 """
 第一个小项目：Rock-paper-scissors-lizard-Spock
